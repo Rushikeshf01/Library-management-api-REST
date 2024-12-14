@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Think and grow rich",
+        "desc": "about mindset",
+        "author": "Napolean hill",
+        "genere": "self-help",
+        "isbn": "9876543437894",
+        "total_copies": 10,
+        "available_copies": 3
+    },
+    {
+        "title": "The Riches man in Babylon",
+        "desc": "life of ancient babylonians",
+        "author": "George S. Clason",
+        "genere": "Finance",
+        "isbn": "9834543217894",
+        "total_copies": 6,
+        "available_copies": 3
+    }
+]
