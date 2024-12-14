@@ -119,5 +119,3 @@ $ python manage.py runserver
 
 ## Acknowledgments
 - Django and Django REST Framework communities for their powerful tools and excellent documentation.
-- The requirement document for guiding the project structure and functionality.
-
