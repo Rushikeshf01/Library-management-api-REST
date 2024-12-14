@@ -41,12 +41,16 @@ $ cd library-management-api
 
 ### Create and Activate a Virtual Environment
 - **For Windows**:
+```bash
 $ python -m venv venv
 $ .\venv\Scripts\activate
+```
 
 - **For macOS/Linux**:
+```bash
 $ python3 -m venv venv
 $ source venv/bin/activate
+```
 
 ### Install Dependencies
 ```bash
